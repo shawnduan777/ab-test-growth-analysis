@@ -1,0 +1,3 @@
+experiment_group,total_users,total_orders,purchasing_users,total_revenue,arpu,aov,revenue_per_purchasing_user
+A,13000,1089,1089,67416.44,5.19,61.91,61.91
+B,13000,1147,1147,71274.97,5.48,62.14,62.14

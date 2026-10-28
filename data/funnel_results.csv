@@ -1,0 +1,3 @@
+experiment_group,total_users,exposed_users,clicked_users,cart_users,purchased_users,click_rate_pct,cart_conversion_pct,payment_conversion_pct,overall_conversion_pct
+A,13000,13000,5255,2698,1089,40.42,51.34,40.36,8.38
+B,13000,13000,5614,2846,1147,43.18,50.69,40.30,8.82
